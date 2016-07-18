@@ -1,0 +1,17 @@
+  *********************GitHub**********************
+
+
+Step1:copy path from eclise->Enter
+
+Step2:type gitbash command prompt type->git init->Enter
+
+Step3:type gitbash command prompt type->git add . ->Enter
+
+Step4:type gitbash command prompt type->git commit -m
+
+Step5:type gitbash command prompt type->copy from github account -> code section ->push Existing Repository->copy git remote add origin https://github.com/DattaWadikar07/ERP.git->enter
+
+
+Step6:type gitbash command prompt type-> git commit -m "data uploading " ->enter 
+
+Step7:type gitbash command prompt type->copy from github account -> code section ->push Existing Repository->copy  git push -u origin master->Enter
