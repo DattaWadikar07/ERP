@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26278" started-at="2016-07-15T09:28:59Z" finished-at="2016-07-15T09:29:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26278" started-at="2016-07-15T09:28:59Z" finished-at="2016-07-15T09:29:26Z">
+      <class name="com.StockAccounting.PageObjectModel.POM_Test">
+        <test-method status="PASS" signature="PageObjectModel_Execution()[pri:0, instance:com.StockAccounting.PageObjectModel.POM_Test@536d6585]" name="PageObjectModel_Execution" duration-ms="26257" started-at="2016-07-15T14:58:59Z" finished-at="2016-07-15T14:59:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageObjectModel_Execution -->
+      </class> <!-- com.StockAccounting.PageObjectModel.POM_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
