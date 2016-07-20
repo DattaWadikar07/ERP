@@ -1,0 +1,38 @@
+*********************jenkins configuration****************************
+
+
+Step1:download jenkins from jenkins sites
+
+
+step2:maintain jenkins jar on desktop---open command prompt--cd desktop
+      java -jar jenkins.war---enter 
+
+
+step3:
+        open your browser----addressbar--localhost:8080--enter 
+
+
+
+step4:select first option it load its all services 
+      username :
+      password :
+
+
+STep5:dashboard is open ---select new item ---give your build name--select freestyle project ---okk
+
+
+
+Step6:page ---build trigers---build peroidical---mention time
+
+
+
+Step7:go down build ---select windows batch command ---java -jar path your executable jar file 
+
+
+step8:go down host build action ---email notification ----give email
+
+
+step9:come back to dashboard configure 
+
+
+       
