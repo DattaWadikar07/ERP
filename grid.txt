@@ -1,0 +1,22 @@
+**************Grid configuration*******************
+
+
+
+Step1:  open command prompt 
+        all required jar maintain one place i.e
+        selenium jar
+        chromjar
+        IEjar
+
+Step2:  type command in command prompt 
+        java -jar selenium jar path -role hub-->Enter
+
+
+for node    (default firefore)
+Step3:      java  -jar  selenium-server-standalone -2.53.1.jar
+            -role webdriver
+            -hub http://10.0.0.125:4444/grid/register
+            -port 9999
+
+
+
